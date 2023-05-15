@@ -1,6 +1,6 @@
 // Java Program to demonstrate
 // String
-//nayana
+
 public class StringExample {
 
 	// Main Function
@@ -13,6 +13,6 @@ public class StringExample {
 		// memory area and second object is
 		// create in String constant pool.
 
-		System.out.println(s1);
+		System.out.println(s1nayana);
 	}
 }
